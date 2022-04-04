@@ -81,6 +81,10 @@ Here are some ideas about me :
 - 🖥 &nbsp;
   ![Apache](https://img.shields.io/badge/apache-333333.svg?style=flat&logo=apache&logoColor=%23D42029)
   ![Nginx](https://img.shields.io/badge/nginx-333333.svg?style=flat&logo=nginx&logoColor=%23009639)
+- 🖥 &nbsp;
+  ![autodesk](https://img.shields.io/badge/Autodesk%20AutoCAD-333333.svg?&style=flat&logo=autodesk&logoColor=%230696D7")
+  ![autodesk](https://img.shields.io/badge/Autodesk%20Maya-333333.svg?&style=flat&logo=autodesk&logoColor=%230696D7")
+  ![autodesk](https://img.shields.io/badge/Autodesk%203DS%20Max-333333.svg?&style=flat&logo=autodesk&logoColor=%230696D7")
   
 <!-- 
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
