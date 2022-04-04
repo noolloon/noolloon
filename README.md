@@ -90,9 +90,11 @@ Here are some ideas about me :
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 -->
 
-<details>
+#### Open Content
+
+<details open>
 <summary>
-  <img src="https://img.shields.io/badge/-Click%20And%20Expand%20to%20know%20more-b03544?style=for-the-badge" /></a>
+  <img src="https://img.shields.io/badge/-Click%20And%20Expand%20to%20know%20more-b03544?style=for-the-badge" />
 </summary>
 
 ---
