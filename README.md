@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/noolloon/noolloon/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://raw.githubusercontent.com/noolloon/noolloon/master/card_logo.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
 ---
