@@ -25,8 +25,6 @@ Here are some ideas about me :
 
 ### 👨‍💻 Languages and Tools
 
-<br />
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -63,26 +61,26 @@ Here are some ideas about me :
   ![InDesign](https://img.shields.io/badge/-Adobe%20InDesign-333333?style=flat&logo=adobe-indesign)
   ![Adobe After Effects](https://img.shields.io/badge/Adobe%20AfterFX-333333.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)
   ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere-333333.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=%23007ACC)
-  
+- 🖥 &nbsp;
   ![Jira](https://img.shields.io/badge/jira-333333.svg?style=flat&logo=jira&logoColor=%23172BF4)
   ![Confluence](https://img.shields.io/badge/confluence-333333.svg?style=flat&logo=confluence&logoColor=%23172BF4)
   ![Trello](https://img.shields.io/badge/Trello-333333.svg?style=flat&logo=Trello&logoColor=%23026AA7)
   ![Docker](https://img.shields.io/badge/docker-333333.svg?style=flat&logo=docker&logoColor=%230db7ed)
   ![Postman](https://img.shields.io/badge/Postman-333333?style=flat&logo=postman&logoColor=FF6C37)
-  
-![Windows](https://img.shields.io/badge/Windows-333333?style=flat&logo=windows&logoColor=0078D6)
-![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=FCC624)
-![Debian](https://img.shields.io/badge/Debian-333333?style=flat&logo=debian&logoColor=D70A53)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-333333?style=flat&logo=ubuntu&logoColor=E95420)
-![Android](https://img.shields.io/badge/Android-333333?style=flat&logo=android&logoColor=3DDC84)
-![IOS](https://img.shields.io/badge/iOS-333333?style=flat&logo=ios&logoColor=white)
-![Apple](https://img.shields.io/badge/Apple-333333.svg?style=flat&logo=apple&logoColor=white)
-![TOR](https://img.shields.io/badge/tor-333333.svg?style=flat&logo=tor-project&logoColor=%237E4798)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-333333?style=flat&logo=Raspberry-Pi&logoColor=C51A4A)
-![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino&logoColor=00979D)
-
-![Apache](https://img.shields.io/badge/apache-333333.svg?style=flat&logo=apache&logoColor=%23D42029)
-![Nginx](https://img.shields.io/badge/nginx-333333.svg?style=flat&logo=nginx&logoColor=%23009639)
+- 🖥 &nbsp;
+  ![Windows](https://img.shields.io/badge/Windows-333333?style=flat&logo=windows&logoColor=0078D6)
+  ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux&logoColor=FCC624)
+  ![Debian](https://img.shields.io/badge/Debian-333333?style=flat&logo=debian&logoColor=D70A53)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-333333?style=flat&logo=ubuntu&logoColor=E95420)
+  ![Android](https://img.shields.io/badge/Android-333333?style=flat&logo=android&logoColor=3DDC84)
+  ![IOS](https://img.shields.io/badge/iOS-333333?style=flat&logo=ios&logoColor=white)
+  ![Apple](https://img.shields.io/badge/Apple-333333.svg?style=flat&logo=apple&logoColor=white)
+  ![TOR](https://img.shields.io/badge/tor-333333.svg?style=flat&logo=tor-project&logoColor=%237E4798)
+  ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-333333?style=flat&logo=Raspberry-Pi&logoColor=C51A4A)
+  ![Arduino](https://img.shields.io/badge/-Arduino-333333?style=flat&logo=Arduino&logoColor=00979D)
+- 🖥 &nbsp;
+  ![Apache](https://img.shields.io/badge/apache-333333.svg?style=flat&logo=apache&logoColor=%23D42029)
+  ![Nginx](https://img.shields.io/badge/nginx-333333.svg?style=flat&logo=nginx&logoColor=%23009639)
   
 <!-- 
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
@@ -90,11 +88,9 @@ Here are some ideas about me :
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 -->
 
-#### Open Content
-
-<details open>
+<details>
 <summary>
-  <img src="https://img.shields.io/badge/-Click%20And%20Expand%20to%20know%20more-b03544?style=for-the-badge" />
+<h3> Extra Content </h3>
 </summary>
 
 ---
@@ -119,9 +115,9 @@ Python      1 hr 5 mins       ██░░░░░░░░░░░░░░�
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noolloon&show_icons=true&hide_border=false)](https://github.com/noolloon)
 
-<br>
-
 </details>
+	
+<br>
   
 ## Support me
 
