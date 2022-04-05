@@ -41,6 +41,7 @@ Here are some ideas about me :
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![jQuery](https://img.shields.io/badge/jquery-333333.svg?style=flat&logo=jquery&logoColor=white)
+  ![Sass](https://img.shields.io/badge/SASS-333333.svg?style=flat&logo=sass&logoColor=CC6699)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
