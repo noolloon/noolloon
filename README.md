@@ -156,7 +156,7 @@ Here are some ideas about me :
 - 🖥 &nbsp;
   ![Autodesk AutoCAD](https://img.shields.io/badge/Autodesk%20AutoCAD-333333.svg?&style=flat&logo=autodesk&logoColor=%230696D7)
   ![Autodesk Maya](https://img.shields.io/badge/Autodesk%20Maya-333333.svg?&style=flat&logo=autodesk&logoColor=%230696D7)
-  ![Autodesk 3DS Max](https://img.shields.io/badge/Autodesk%
+  ![autodesk 3DS Max](https://img.shields.io/badge/Autodesk%203DS%20Max-333333.svg?&style=flat&logo=autodesk&logoColor=%230696D7")
 
 
 <details>
