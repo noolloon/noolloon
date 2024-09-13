@@ -84,8 +84,6 @@ Here are some ideas about me :
   ![autodesk](https://img.shields.io/badge/Autodesk%20AutoCAD-333333.svg?&style=flat&logo=autodesk&logoColor=%230696D7")
   ![autodesk](https://img.shields.io/badge/Autodesk%20Maya-333333.svg?&style=flat&logo=autodesk&logoColor=%230696D7")
   ![autodesk](https://img.shields.io/badge/Autodesk%203DS%20Max-333333.svg?&style=flat&logo=autodesk&logoColor=%230696D7")
-  
-
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
