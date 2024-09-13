@@ -89,20 +89,18 @@ Here are some ideas about me :
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
 -->
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
 - 💻 &nbsp;
   ![Swift](https://img.shields.io/badge/Swift-333333.svg?style=flat&logo=swift&logoColor=F05138)
   ![SwiftUI](https://img.shields.io/badge/SwiftUI-333333.svg?style=flat&logo=swift&logoColor=F05138)
   ![React](https://img.shields.io/badge/React-333333.svg?style=flat&logo=react&logoColor=61DAFB)
   ![React Native](https://img.shields.io/badge/React%20Native-333333.svg?style=flat&logo=react&logoColor=61DAFB)
   ![Flutter](https://img.shields.io/badge/Flutter-333333.svg?style=flat&logo=flutter&logoColor=02569B)
-  ![Figma](https://img.shields.io/badge/Figma-333333.svg?style=flat&logo=figma&logoColor=F24E1E)
   ![PHP](https://img.shields.io/badge/php-333333.svg?style=flat&logo=php&logoColor=00599C)
   ![TypeScript](https://img.shields.io/badge/TypeScript-333333.svg?style=flat&logo=typescript&logoColor=%23007ACC)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=red)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  ![C#](https://img.shields.io/badge/C%23-333333.svg?style=flat&logo=c-sharp&logoColor=239120)
   ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=ffdd54)
   ![Dart](https://img.shields.io/badge/dart-333333.svg?style=flat&logo=dart&logoColor=%230175C2)
 
@@ -125,9 +123,11 @@ Here are some ideas about me :
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Xcode](https://img.shields.io/badge/Xcode-333333.svg?style=flat&logo=xcode&logoColor=007ACC)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-333333?style=flat&logo=android&logoColor=3DDC84)
 - 🖥 &nbsp;
+  ![Figma](https://img.shields.io/badge/Figma-333333.svg?style=flat&logo=figma&logoColor=F24E1E)
   ![Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-Adobe%20InDesign-333333?style=flat&logo=adobe-indesign)
